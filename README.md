@@ -13,6 +13,11 @@ plots.
 The data set and the explanation of the variables can be found,
 [Here](https://github.com/Amppiah/LoansAmount-Dataset)
 
+Softwares used for the analysis :
+-Panda
+-python
+-Numpy
+-Anaconda (Jupyter notebook)
 
 
 
@@ -21,7 +26,7 @@ In the exploration I found that was a negative relations between Borrowrate and
 Loan amounts that were given and a positive one with other variables like 
 Homeowner and ProsperRates serving as influencing factors too .
 
-*The Borrowerrate and loan amount's relationship is rather negative with rates 
+-The Borrowerrate and loan amount's relationship is rather negative with rates 
 largely dispersed between 0.1 and 0.3. I found that borrowers with High ProsperRatings 
 are positively influence on the BorrowerRate and as well as Borrowers who own Homes. 
 *The Borrowerrate and the prosper rating also exhibit a positive relationship as the 
@@ -45,13 +50,19 @@ which can influence their rates too.
 For the presentation I focused on the influence of the other variables on the BorrowerRate,
 which include Loan amount, prosper ratings and homeowners .
 
-Below are the insights:
-*I first started with Loan amount on the rate on a regression plot and soon realised that 
+Insights:
+-I first started with Loan amount on the rate on a regression plot and soon realised that 
 there was an inverse relationship there i.e as the loan amount decreases so does the 
 interest rate. 
-*I also used a regression line to understand the relation between Prosper 
+-I also used a regression line to understand the relation between Prosper 
 ratings on Loan amount and interest rate and surprisingly realised that not all better 
 borrowers recieved lower interest rates but rather borrower with ratings of (E) recieved
 lower rates as loan increases. 
 *Homweownership also showed an influence using the point plot where more homeowners 
 recieved lower rates on their loans then non homeowners.
+
+Resources used
+-geeksforgeeks.org
+-Stackoverflow.com
+-Matplotlin.org
+-codegrepper.com
